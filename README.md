@@ -1,2 +1,2 @@
 # AtividadePontuada1
-~Lucas M Oliveira
+agora foi, sem conflito...

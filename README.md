@@ -1,2 +1,4 @@
 # AtividadePontuada1
-agora foi, sem conflito...
+
+Eu sou o analista
+
